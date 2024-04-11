@@ -1,4 +1,4 @@
-package laskin;
+package laskin.Suunnittelumallit;
 
 import java.awt.*;
 import java.awt.event.*;

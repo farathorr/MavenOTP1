@@ -1,4 +1,6 @@
-import laskin.Laskin;
+package laskin.Suunnittelumallit;
+
+import laskin.Suunnittelumallit.Laskin;
 
 public class Main {
 

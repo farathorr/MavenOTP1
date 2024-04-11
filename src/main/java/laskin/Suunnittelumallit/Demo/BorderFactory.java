@@ -1,4 +1,4 @@
-package laskin.Demo;
+package laskin.Suunnittelumallit.Demo;
 
 import javafx.scene.layout.Border;
 import javafx.scene.layout.BorderStroke;

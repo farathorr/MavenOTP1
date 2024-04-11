@@ -1,4 +1,4 @@
-package laskin.Demo;
+package laskin.Suunnittelumallit.Demo;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;

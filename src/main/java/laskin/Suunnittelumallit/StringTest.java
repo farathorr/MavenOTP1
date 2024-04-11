@@ -1,4 +1,4 @@
-package laskin;
+package laskin.Suunnittelumallit;
 
 public class StringTest {
     public static void main(String[] args) {
