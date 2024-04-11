@@ -1,8 +1,7 @@
-package localizationExample;
+package basicLocalization;
 
 import java.text.DateFormat;
 import java.util.Date;
-import java.util.List;
 import java.util.Locale;
 import java.util.ResourceBundle;
 

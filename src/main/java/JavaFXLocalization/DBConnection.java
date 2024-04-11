@@ -1,4 +1,4 @@
-package OTP;
+package JavaFXLocalization;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
